@@ -1,0 +1,12 @@
+[submodule "firmware"]
+	path = firmware
+	url = https://github.com/gkr-labs/vikkuna_firmware
+[submodule "case"]
+	path = case
+	url = https://github.com/gkr-labs/vikkuna_case
+[submodule "pcb"]
+	path = pcb
+	url = https://github.com/gkr-labs/vikkuna_pcb
+[submodule "ctrl"]
+	path = ctrl
+	url = https://github.com/gkr-labs/ctrl.git
